@@ -1,0 +1,14 @@
+body{
+    background-color: #212121;
+}
+.title{
+    font-size: 100px;
+    font-weight: normal;
+    line-height: 80%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 13%;
+    color:#f4f4f4;
+
+    -webkit-box-reflect: below 0px linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.4));
+}
